@@ -1,6 +1,5 @@
-Goal: Parse Item2 from 10-Q
-
-> based on Bill McDonald's work. 
+# Intro
+In this repo, the goal is to parse "item 2" (a specific section in a kind of financial disclosure "10-Q") out of 10-Q.
 
 # Data Description
 
